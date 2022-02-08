@@ -1,0 +1,23 @@
+.footer {
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+
+}
+
+.footerIcon {
+    padding: 19px 25px 19px 73px;
+}
+
+.footerIcon1 {
+    padding-right: 24px;
+}
+
+.footerIcon2 {
+    padding-right: 24px;
+}
+
+.footerIcon3 {
+    padding-right: 24px;
+}

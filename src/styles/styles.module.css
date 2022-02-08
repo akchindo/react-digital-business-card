@@ -1,0 +1,29 @@
+.mainBody {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150vh;
+}
+
+.body {
+  width: 550px;
+  /* height: 868px; */
+  background: #23252c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter, sans-serif;
+  box-sizing: border-box;
+  color: white;
+  margin: 50px auto;
+  padding: 44px 0;
+}
+
+.cardBody {
+  width: 320px;
+  background: #1a1b21;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
